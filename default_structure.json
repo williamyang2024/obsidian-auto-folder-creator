@@ -1,0 +1,23 @@
+{
+  "000-Inbox": [],
+  "100-Work": [
+    "101-Calendar",
+    "102-Projects",
+    "103-Operation"
+  ],
+  "200-Learning": [
+    "201-Reading",
+    "202-Computer",
+    "203-Language"
+  ],
+  "300-Life": [
+    "301-Travel",
+    "302-Finance",
+    "303-Hobbies"
+  ],
+  "900-Resources": [
+    "901-Templates",
+    "902-Images",
+    "903-Plugins"
+  ]
+}
